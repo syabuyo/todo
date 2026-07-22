@@ -10,12 +10,14 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "catalog:",
+    "@tanstack/react-query": "catalog:",
     "@tanstack/react-router": "catalog:",
     "react": "catalog:",
     "react-dom": "catalog:",
     "tailwindcss": "catalog:"
   },
   "devDependencies": {
+    "@tanstack/react-query-devtools": "catalog:",
     "@tanstack/react-router-devtools": "catalog:",
     "@tanstack/router-plugin": "catalog:",
     "@types/react": "catalog:",
