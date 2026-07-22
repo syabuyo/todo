@@ -6,7 +6,17 @@ packages:
 catalogMode: prefer
 
 catalog:
+  "@tailwindcss/vite": ^4.3.3
+  "@tanstack/react-router": ^1.170.18
+  "@tanstack/react-router-devtools": ^1.167.0
+  "@tanstack/router-plugin": ^1.168.23
   "@types/node": ^24
+  "@types/react": ^19.2.17
+  "@types/react-dom": ^19.2.3
+  "@vitejs/plugin-react": ^6.0.3
+  react: ^19.2.7
+  react-dom: ^19.2.7
+  tailwindcss: ^4.3.3
   typescript: ^5
   vite: npm:@voidzero-dev/vite-plus-core@0.2.2
   vite-plus: 0.2.2
